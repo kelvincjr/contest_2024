@@ -1,0 +1,8 @@
+torch==1.11.0
+tokenizers==0.13.3
+transformers==4.30.2
+ark-nlp==0.0.8
+numpy==1.23.5
+fuzzywuzzy
+pyyaml
+JPype1
